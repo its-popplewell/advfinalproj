@@ -1,0 +1,26 @@
+div#datavis {
+  width: 1100px !important;
+  margin: 0px !important;
+  float: left;
+}
+
+div#barplot {
+  width: 350px !important;
+  margin: 0px !important;
+  float: left;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+text {
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+  font-family: 'Quicksand', sans-serif;
+}
+h3 {
+  font-family: 'Quicksand', sans-serif;
+}
+h4 {
+  font-family: 'Quicksand', sans-serif;
+}
